@@ -1,0 +1,13 @@
+name = "Kawaii Dishes"
+filename = "KawaiiDishes 1.7.2-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/BMb8hUvK/KawaiiDishes%201.7.2-1.19.2.jar"
+hash-format = "sha1"
+hash = "a8af365f803c09e638dee8283c774eff5d30036d"
+
+[update]
+[update.modrinth]
+mod-id = "v2Vpr5Uf"
+version = "BMb8hUvK"

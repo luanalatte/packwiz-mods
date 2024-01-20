@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8c8f8222d0a2c3e1f673b137637b17bd87535b0aad111d79e242f18af48d0169"
+hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
@@ -121,6 +121,11 @@ hash = "40140ae685c9841d892eb2be0cd70b8c48ae121d99808bc293ab4fbdbf879c80"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "350bbdcb6ad1fc025f8f34261a3ae13f13e19e5eb59d062ca718e97a4ef53f2d"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "73b933d38189720dbdbfd1f2f1a83231fd99d844a217fb90408809ac7a12445b"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/curious-lanterns.pw.toml"
 hash = "09e4047a2760442441fe2f8c14f78cf01972379d57da2025b73069f69ba1ea66"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "fc403e33ee98a4e9366881699e8e8e177c68d83f884318dffbf12962f5cdc4d3"
 metafile = true
 
 [[files]]
@@ -271,6 +281,16 @@ hash = "6fbf022fda5e7b0715b1a8729ecc9a09121f63244ba3a0f20da97741d3c9195e"
 metafile = true
 
 [[files]]
+file = "mods/kawaii-dishes.pw.toml"
+hash = "b1beb0c72e86adb47b21332d73c3ed2039ac5a2e4120382b08223f1b19c157af"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "338e95818aa7bdafffa43ff65a5779e4852fa185325ebfe28f86f5a354c3b22d"
 metafile = true
@@ -278,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "63614a60459ead23d728325b6d4fab161b3bb7a0b0e32bca398d64b51652c9be"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "fee1266f537580c82638712e977b2907adfc9dd546ebf0a0610acff93bb62540"
 metafile = true
 
 [[files]]
@@ -411,6 +436,11 @@ hash = "4f696ec4a63985f9bd9a51ba00e57c34a6ffd5ac31aa168c8a2caa16093b5ec9"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "f2a085afd975546ad59a627f4bfda191c7a0621c55da5ecc49196ff1a17a03f5"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "73649d35fa03c369a4efddd357a830fc5cda7e6217a3fc8cea2072049b70987c"
 metafile = true
@@ -453,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/useful-slime.pw.toml"
 hash = "8c1c91c078de1168a174061a1671c4188ea5521a06d96189150588132e31ae5b"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "a5b291073350ea7b32f6c66c8d0304dcbe08906a5c3c9630cfa14222e2e5248a"
 metafile = true
 
 [[files]]
