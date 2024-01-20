@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "54ae7fa2a690456b99a09aef45c9405cd87392ec4883e3831473970de39a1455"
+hash = "b7ceb84e97958d7559884e909dc0b6135e49a8534f70cf8737ddbf87849e5139"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless.pw.toml"
-hash = "087df23c26eabdea080710fd00f9ddcd2cea2b7bfd8ef85fa59dded46911edf5"
+hash = "2745b551eeaa8d7ee00712e5993b3e62248870c9475505e3f4726b166a0d62f7"
 metafile = true
 
 [[files]]
