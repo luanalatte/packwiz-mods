@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
-hash = "07460c53ebbe8ea403b10b73d1abc79c6601c6c91c0549d23695065121698a2a"
+hash = "27881faf247dd765d3b0905c2237069682780f29a892b3180c507962830b62e1"
 metafile = true
 
 [[files]]
