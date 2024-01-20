@@ -51,6 +51,11 @@ hash = "f30dc5b64b12df077cabf15d38ad1480f5459a8025de2d7ee71232d1dcaf383a"
 metafile = true
 
 [[files]]
+file = "mods/borderless.pw.toml"
+hash = "087df23c26eabdea080710fd00f9ddcd2cea2b7bfd8ef85fa59dded46911edf5"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "72b4e9baeb3065481aeaf244de7c664c10d5c791991fff6bf626a472d713cc0e"
 metafile = true
