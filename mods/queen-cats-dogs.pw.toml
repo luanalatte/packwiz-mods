@@ -1,0 +1,13 @@
+name = "Queen Cats & Dogs"
+filename = "queencats-1.0.5-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ajTHC1q6/versions/exIhh2A4/queencats-1.0.5-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "0ced0ac9aaa84b41371c3b915aa4cfadcd5441ec"
+
+[update]
+[update.modrinth]
+mod-id = "ajTHC1q6"
+version = "exIhh2A4"

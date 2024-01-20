@@ -1,0 +1,13 @@
+name = "Puppy Modpack"
+author = "luanalatte"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4270073cd4a998e70f6d1aebf13d6190bc8025e144eb654c441e8d8408ef91bf"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"
