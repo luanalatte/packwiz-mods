@@ -70,6 +70,11 @@ hash = "1d51fa0d3f0ca14c66f425643120f147d5eec29d48c5ac595351db20cdf9ee75"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "ccc9b9f02f78149e5c4c0f74503f65f669a365df32f06dc7762ef02cd97573df"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba80f84d8974f7c64f7750b8f80bd3590fec9bc96a3e2602eddbde7ba0f86d0e"
 metafile = true
